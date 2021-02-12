@@ -1,0 +1,5 @@
+/home/maqsoodbhatti/app/App/bin/Release/net5.0/publish/NetCore.Docker
+/home/maqsoodbhatti/app/App/bin/Release/net5.0/publish/NetCore.Docker.dll
+/home/maqsoodbhatti/app/App/bin/Release/net5.0/publish/NetCore.Docker.deps.json
+/home/maqsoodbhatti/app/App/bin/Release/net5.0/publish/NetCore.Docker.runtimeconfig.json
+/home/maqsoodbhatti/app/App/bin/Release/net5.0/publish/NetCore.Docker.pdb
