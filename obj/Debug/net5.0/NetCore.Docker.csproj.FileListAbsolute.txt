@@ -14,3 +14,11 @@
 /home/maqsoodbhatti/app/App/obj/Debug/net5.0/ref/NetCore.Docker.dll
 /home/maqsoodbhatti/app/App/obj/Debug/net5.0/NetCore.Docker.pdb
 /home/maqsoodbhatti/app/App/obj/Debug/net5.0/NetCore.Docker.genruntimeconfig.cache
+/home/maqsoodbhatti/app/App/dockerlabs/obj/Debug/net5.0/NetCore.Docker.csprojAssemblyReference.cache
+/home/maqsoodbhatti/app/App/dockerlabs/obj/Debug/net5.0/NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/maqsoodbhatti/app/App/dockerlabs/obj/Debug/net5.0/NetCore.Docker.AssemblyInfoInputs.cache
+/home/maqsoodbhatti/app/App/dockerlabs/obj/Debug/net5.0/NetCore.Docker.AssemblyInfo.cs
+/home/maqsoodbhatti/app/App/dockerlabs/obj/Debug/net5.0/NetCore.Docker.csproj.CoreCompileInputs.cache
+/home/maqsoodbhatti/app/App/dockerlabs/obj/Debug/net5.0/NetCore.Docker.dll
+/home/maqsoodbhatti/app/App/dockerlabs/obj/Debug/net5.0/ref/NetCore.Docker.dll
+/home/maqsoodbhatti/app/App/dockerlabs/obj/Debug/net5.0/NetCore.Docker.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xu+3MrZAmgnvwzbpToffnnJdDMGHxIxMu6ViQBXTZFZrbqpXgjN5zfJuAxJK60OWcX2AaO6GHC0BalDBGMnAwQ==",
+  "dgSpecHash": "4z8lojbiw5ztcDKE5lTzaNhxF1uJsGXKVXcZFUn7+Jy/YCJYuugQRm5g89ndeeCgcRrxu2zTtYjlEhP5dDQiwA==",
   "success": true,
-  "projectFilePath": "/home/maqsoodbhatti/app/App/NetCore.Docker.csproj",
+  "projectFilePath": "/home/maqsoodbhatti/app/App/dockerlabs/NetCore.Docker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

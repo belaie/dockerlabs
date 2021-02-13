@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/maqsoodbhatti/app/App/dockerlabs/NetCore.Docker.csproj",
-      "projectName": "NetCore.Docker",
-      "projectPath": "/home/maqsoodbhatti/app/App/dockerlabs/NetCore.Docker.csproj",
+      "projectUniqueName": "/home/maqsoodbhatti/app/App/dockerlabs/mvc/mvc.csproj",
+      "projectName": "mvc",
+      "projectPath": "/home/maqsoodbhatti/app/App/dockerlabs/mvc/mvc.csproj",
       "packagesPath": "/home/maqsoodbhatti/.nuget/packages/",
-      "outputPath": "/home/maqsoodbhatti/app/App/dockerlabs/obj/",
+      "outputPath": "/home/maqsoodbhatti/app/App/dockerlabs/mvc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/maqsoodbhatti/.nuget/NuGet/NuGet.Config"
@@ -54,6 +54,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
